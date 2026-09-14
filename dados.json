@@ -1,0 +1,2129 @@
+{
+  "atualizadoEm": "2026-09-14T10:57:58-03:00",
+  "produtos": [
+    {
+      "codigo": "67102",
+      "descricao": "CABO DE COBRE NU 6MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.05107,
+      "saldoKg": 166.34,
+      "saldoUnidade": 3255.0
+    },
+    {
+      "codigo": "67104",
+      "descricao": "CABO DE COBRE NU 6MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.054,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "61102",
+      "descricao": "FIO DE COBRE NU 6MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.05107,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "61104",
+      "descricao": "FIO DE COBRE NU 6MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.054,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "107115",
+      "descricao": "CABO DE COBRE NU 10MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.06526,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "107129",
+      "descricao": "CABO DE COBRE NU 10MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.08169,
+      "saldoKg": 183.8,
+      "saldoUnidade": 2250.0
+    },
+    {
+      "codigo": "107135",
+      "descricao": "CABO DE COBRE NU 10MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.0922,
+      "saldoKg": 695.37,
+      "saldoUnidade": 7542.0
+    },
+    {
+      "codigo": "101115",
+      "descricao": "FIO DE COBRE NU 10MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.06526,
+      "saldoKg": 169.02,
+      "saldoUnidade": 2590.0
+    },
+    {
+      "codigo": "101129",
+      "descricao": "FIO DE COBRE NU 10MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.08169,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "101135",
+      "descricao": "FIO DE COBRE NU 10MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.0922,
+      "saldoKg": 9.2,
+      "saldoUnidade": 100.0
+    },
+    {
+      "codigo": "167135",
+      "descricao": "CABO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.0922,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "167145",
+      "descricao": "CABO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.10322,
+      "saldoKg": 168.25,
+      "saldoUnidade": 1630.0
+    },
+    {
+      "codigo": "167155",
+      "descricao": "CABO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.11794,
+      "saldoKg": 453.37,
+      "saldoUnidade": 3843.0
+    },
+    {
+      "codigo": "167162",
+      "descricao": "CABO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.12884,
+      "saldoKg": 53.34,
+      "saldoUnidade": 414.0
+    },
+    {
+      "codigo": "167170",
+      "descricao": "CABO DE COBRE NU 16MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.142,
+      "saldoKg": 492.48,
+      "saldoUnidade": 3420.0
+    },
+    {
+      "codigo": "161135",
+      "descricao": "FIO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.0922,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "161145",
+      "descricao": "FIO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.10322,
+      "saldoKg": 601.77,
+      "saldoUnidade": 5830.0
+    },
+    {
+      "codigo": "161155",
+      "descricao": "FIO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.11794,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "161162",
+      "descricao": "FIO DE COBRE NU 16MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.12884,
+      "saldoKg": 691.44,
+      "saldoUnidade": 5360.0
+    },
+    {
+      "codigo": "161170",
+      "descricao": "FIO DE COBRE NU 16MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.142,
+      "saldoKg": 2.45,
+      "saldoUnidade": 17.0
+    },
+    {
+      "codigo": "257190",
+      "descricao": "CABO DE COBRE NU 25MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.179,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "257200",
+      "descricao": "CABO DE COBRE NU 25MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.19637,
+      "saldoKg": 1054.51,
+      "saldoUnidade": 5370.0
+    },
+    {
+      "codigo": "257206",
+      "descricao": "CABO DE COBRE NU 25MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.21,
+      "saldoKg": 431.98,
+      "saldoUnidade": 2042.0
+    },
+    {
+      "codigo": "251190",
+      "descricao": "FIO DE COBRE NU 25MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.179,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "251200",
+      "descricao": "FIO DE COBRE NU 25MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.19637,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "251206",
+      "descricao": "FIO DE COBRE NU 25MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.21,
+      "saldoKg": 20.37,
+      "saldoUnidade": 97.0
+    },
+    {
+      "codigo": "357220",
+      "descricao": "CABO DE COBRE NU 35MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.23761,
+      "saldoKg": 440.29,
+      "saldoUnidade": 1853.0
+    },
+    {
+      "codigo": "357230",
+      "descricao": "CABO DE COBRE NU 35MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.263,
+      "saldoKg": 338.48,
+      "saldoUnidade": 1287.0
+    },
+    {
+      "codigo": "357240",
+      "descricao": "CABO DE COBRE NU 35MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.28277,
+      "saldoKg": 315.29,
+      "saldoUnidade": 1111.0
+    },
+    {
+      "codigo": "357250",
+      "descricao": "CABO DE COBRE NU 35MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.31,
+      "saldoKg": 376.34,
+      "saldoUnidade": 1213.0
+    },
+    {
+      "codigo": "351220",
+      "descricao": "FIO DE COBRE NU 35MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.23761,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "351230",
+      "descricao": "FIO DE COBRE NU 35MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.263,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "351240",
+      "descricao": "FIO DE COBRE NU 35MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.28277,
+      "saldoKg": 2.82,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "351250",
+      "descricao": "FIO DE COBRE NU 35MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.31,
+      "saldoKg": 31.0,
+      "saldoUnidade": 100.0
+    },
+    {
+      "codigo": "5019129",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.2232,
+      "saldoKg": 25.89,
+      "saldoUnidade": 116.0
+    },
+    {
+      "codigo": "5019135",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.24406,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "5019145",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.238,
+      "saldoKg": 830.19,
+      "saldoUnidade": 2948.0
+    },
+    {
+      "codigo": "5019155",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.325,
+      "saldoKg": 836.5,
+      "saldoUnidade": 2600.0
+    },
+    {
+      "codigo": "5019162",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.355,
+      "saldoKg": 405.41,
+      "saldoUnidade": 1142.0
+    },
+    {
+      "codigo": "5019170",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.383,
+      "saldoKg": 729.6,
+      "saldoUnidade": 1900.0
+    },
+    {
+      "codigo": "5019178",
+      "descricao": "CABO DE COBRE NU 50MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.41,
+      "saldoKg": 287.0,
+      "saldoUnidade": 700.0
+    },
+    {
+      "codigo": "501129",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.2232,
+      "saldoKg": 810.22,
+      "saldoUnidade": 3630.0
+    },
+    {
+      "codigo": "501135",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.24406,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "501145",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.238,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "501155",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.325,
+      "saldoKg": 305.64,
+      "saldoUnidade": 950.0
+    },
+    {
+      "codigo": "501162",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.355,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "501170",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.383,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "50178",
+      "descricao": "FIO DE COBRE NU 50MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.41,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "507270",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.35973,
+      "saldoKg": 484.56,
+      "saldoUnidade": 1347.0
+    },
+    {
+      "codigo": "507290",
+      "descricao": "CABO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.415,
+      "saldoKg": 204.6,
+      "saldoUnidade": 491.0
+    },
+    {
+      "codigo": "507300",
+      "descricao": "CABO DE COBRE NU 50MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.444,
+      "saldoKg": 345.43,
+      "saldoUnidade": 587.0
+    },
+    {
+      "codigo": "501270",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.35973,
+      "saldoKg": 35.9,
+      "saldoUnidade": 100.0
+    },
+    {
+      "codigo": "501290",
+      "descricao": "FIO DE COBRE NU 50MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.415,
+      "saldoKg": 103.75,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "501300",
+      "descricao": "FIO DE COBRE NU 50MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.444,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "7019200",
+      "descricao": "CABO DE COBRE NU 70MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.545,
+      "saldoKg": 70.85,
+      "saldoUnidade": 130.0
+    },
+    {
+      "codigo": "7019212",
+      "descricao": "CABO DE COBRE NU 70MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.6,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "701200",
+      "descricao": "FIO DE COBRE NU 70MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.545,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "701212",
+      "descricao": "FIO DE COBRE NU 70MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.6,
+      "saldoKg": 27.0,
+      "saldoUnidade": 45.0
+    },
+    {
+      "codigo": "707345",
+      "descricao": "CABO DE COBRE NU 70MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.59337,
+      "saldoKg": 180.92,
+      "saldoUnidade": 305.0
+    },
+    {
+      "codigo": "707330",
+      "descricao": "CABO DE COBRE NU 70MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.54,
+      "saldoKg": 519.11,
+      "saldoUnidade": 966.0
+    },
+    {
+      "codigo": "701345",
+      "descricao": "FIO DE COBRE NU 70MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.59337,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "70130",
+      "descricao": "FIO DE COBRE NU 70MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.54,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "9519240",
+      "descricao": "CABO DE COBRE NU 95MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.78938,
+      "saldoKg": 367.68,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "9519250",
+      "descricao": "CABO DE COBRE NU 95MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.84571,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "95119240",
+      "descricao": "FIO DE COBRE NU 95MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.78938,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "95119250",
+      "descricao": "FIO DE COBRE NU 95MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.84571,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "957400",
+      "descricao": "CABO DE COBRE NU 95MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.78938,
+      "saldoKg": 262.08,
+      "saldoUnidade": 332.0
+    },
+    {
+      "codigo": "957412",
+      "descricao": "CABO DE COBRE NU 95MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.838,
+      "saldoKg": 294.14,
+      "saldoUnidade": 351.0
+    },
+    {
+      "codigo": "951400",
+      "descricao": "FIO DE COBRE NU 95MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.78938,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "9517412",
+      "descricao": "FIO DE COBRE NU 95MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.838,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "12019270",
+      "descricao": "CABO DE COBRE NU 120MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.98589,
+      "saldoKg": 856.92,
+      "saldoUnidade": 888.0
+    },
+    {
+      "codigo": "12019290",
+      "descricao": "CABO DE COBRE NU 120MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.138,
+      "saldoKg": 648.66,
+      "saldoUnidade": 570.0
+    },
+    {
+      "codigo": "120119270",
+      "descricao": "FIO DE COBRE NU 120MM ESP",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.98589,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "120119290",
+      "descricao": "FIO DE COBRE NU 120MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.138,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "15019300",
+      "descricao": "CABO DE COBRE NU 150MM",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.22311,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "15019320",
+      "descricao": "CABO DE COBRE NU 150MM",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.39163,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "15019325",
+      "descricao": "CABO DE COBRE NU 150MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.429,
+      "saldoKg": 931.72,
+      "saldoUnidade": 652.0
+    },
+    {
+      "codigo": "1501325",
+      "descricao": "FIO DE COBRE NU 150MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.429,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "18519330",
+      "descricao": "CABO DE COBRE NU 185MM",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.47997,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "18519340",
+      "descricao": "CABO DE COBRE NU 185MM",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.57102,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "18519352",
+      "descricao": "CABO DE COBRE NU 185MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.676,
+      "saldoKg": 306.71,
+      "saldoUnidade": 183.0
+    },
+    {
+      "codigo": "185119352",
+      "descricao": "FIO DE COBRE NU 185MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.676,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "24019390",
+      "descricao": "CABO DE COBRE NU 240MM",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 2.06706,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "24019396",
+      "descricao": "CABO DE COBRE NU 240MM",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 2.13116,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "24019400",
+      "descricao": "CABO DE COBRE NU 240MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 2.17443,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "240119400",
+      "descricao": "FIO DE COBRE NU 240MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 2.17433,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "30019450",
+      "descricao": "CABO DE COBRE NU 300MM2 ABNT 5111/6524",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 2.74,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "131618",
+      "descricao": "BARRA CHATA DE ALUMINIO 7/8X1/8 COM 6MTS",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 0.97,
+      "saldoKg": 9.5,
+      "saldoUnidade": 10.0
+    },
+    {
+      "codigo": "1316183",
+      "descricao": "BARRA CHATA DE ALUMINIO 7/8X1/8 COM 3 MTS",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 0.485,
+      "saldoKg": 6.18,
+      "saldoUnidade": 13.0
+    },
+    {
+      "codigo": "3414",
+      "descricao": "BARRA CHATA DE ALUMINIO 3/4X1/4 COM 6MTS",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 1.88,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "34143",
+      "descricao": "BARRA CHATA DE ALUMINIO 3/4X1/4 COM 3 MTS",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 0.906,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "341806",
+      "descricao": "BARRA CHATA DE ALUMINIO 3/4X1/8 COM 6MTS",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 0.97,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "7818",
+      "descricao": "BARRA CHATA DE ALUMINIO 7/8X1/8 COM 6MTS ABNT",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 1.088,
+      "saldoKg": 97.92,
+      "saldoUnidade": 90.0
+    },
+    {
+      "codigo": "78183",
+      "descricao": "BARRA CHATA DE ALUMINIO 7/8X1/8 COM 3MTS ABNT",
+      "familia": "barra",
+      "unidade": "pc",
+      "peso": 0.544,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "004113",
+      "descricao": "CABO AL DUPLEX 1X1+10MM²  XLPE - PT / NN",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0623,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "135",
+      "descricao": "CABO AL SINGELO 1X35+35MM XLPE - PT/CZ/AZ - NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.14132,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "2101",
+      "descricao": "CABO AL DUPLEX 10MM XLPE 0,6/1KV PT/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.08051,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "2102",
+      "descricao": "CABO AL DUPLEX 10MM XLPE 0,6/1KV PT NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0623,
+      "saldoKg": 18.69,
+      "saldoUnidade": 300.0
+    },
+    {
+      "codigo": "2161",
+      "descricao": "CABO AL DUPLEX 16MM XLPE 0,6/1KV PT/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.11308,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "2162",
+      "descricao": "CABO AL DUPLEX 16MM XLPE 0,6/1KV PT NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0912,
+      "saldoKg": 29.28,
+      "saldoUnidade": 321.0
+    },
+    {
+      "codigo": "2251",
+      "descricao": "CABO AL DUPLEX 25MM XLPE 0,6/1KV PT/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.18375,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "2252",
+      "descricao": "CABO AL DUPLEX 25MM XLPE 0,6/1KV PT NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.147,
+      "saldoKg": 20.87,
+      "saldoUnidade": 142.0
+    },
+    {
+      "codigo": "2351",
+      "descricao": "CABO AL DUPLEX 35MM XLPE 0,6/1KV PT/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.26149,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "2352",
+      "descricao": "CABO AL DUPLEX 35MM XLPE 0,6/1KV PT NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2303,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "2501",
+      "descricao": "CABO AL DUPLEX 50MM XLPE 0,6/1KV PT/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.32082,
+      "saldoKg": 650.93,
+      "saldoUnidade": 2029.0
+    },
+    {
+      "codigo": "2502",
+      "descricao": "CABO AL DUPLEX 50MM XLPE 0,6/1KV PT NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.259,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3101",
+      "descricao": "CABO AL TRIPLEX 10MM XLPE 0,6/1KV PT/CZ/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.11502,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3102",
+      "descricao": "CABO AL TRIPLEX 10MM XLPE 0,6/1KV PT/CZ NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.10256,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31201",
+      "descricao": "TRIPLEX 120 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.9852,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31202",
+      "descricao": "TRIPLEX 120 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.884,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3120701",
+      "descricao": "TRIPLEX 120 + 70 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.8459,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3120702",
+      "descricao": "TRIPLEX 120 +70 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.7799,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3120951",
+      "descricao": "TRIPLEX 120 + 95 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.8199,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3120952",
+      "descricao": "TRIPLEX 120 + 95 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.832,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31501",
+      "descricao": "TRIPLEX 150 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.1644,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31501201",
+      "descricao": "TRIPLEX 150 + 120 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.1047,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31501202",
+      "descricao": "TRIPLEX 150 + 120 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.0035,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31502",
+      "descricao": "TRIPLEX 150 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.0438,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3150951",
+      "descricao": "TRIPLEX 150 + 95 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.0394,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3150952",
+      "descricao": "TRIPLEX 150 + 95 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.9515,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3161",
+      "descricao": "CABO AL TRIPLEX 16MM XLPE 0,6/1KV PT/CZ/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1407,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3162",
+      "descricao": "CABO AL TRIPLEX 16MM XLPE 0,6/1KV PT/CZ NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1406,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3162PT",
+      "descricao": "CABO AL TRIPLEX 16MM XLPE 0,6/1KV PT/PT NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1011,
+      "saldoKg": 1011.0,
+      "saldoUnidade": 10000.0
+    },
+    {
+      "codigo": "31851",
+      "descricao": "TRIPLEX 185 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.4124,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31851201",
+      "descricao": "TRIPLEX 185 + 120 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.27,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31851202",
+      "descricao": "TRIPLEX 185 + 120 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.1688,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31851501",
+      "descricao": "TRIPLEX 185 + 150 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.3297,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31851502",
+      "descricao": "TRIPLEX 185 + 150 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.2091,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "31852",
+      "descricao": "TRIPLEX 185 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.2758,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3251",
+      "descricao": "CABO AL TRIPLEX 25MM XLPE 0,6/1KV PT/CZ/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.27562,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3252",
+      "descricao": "CABO AL TRIPLEX 25MM XLPE 0,6/1KV PT/CZ NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2275,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3351",
+      "descricao": "CABO AL TRIPLEX35MM XLPE 0,6/1KV PT/CZ/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3619,
+      "saldoKg": 31.12,
+      "saldoUnidade": 86.0
+    },
+    {
+      "codigo": "3352",
+      "descricao": "CABO AL TRIPLEX 35MM XLPE 0,6/1KV PT/CZ NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3329,
+      "saldoKg": 47.6,
+      "saldoUnidade": 143.0
+    },
+    {
+      "codigo": "3501",
+      "descricao": "CABO AL TRIPLEX 50MM XLPE 0,6/1KV PT/CZ/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.48122,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3502",
+      "descricao": "CABO AL TRIPLEX 50MM XLPE 0,6/1KV PT/CZ NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.43233,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3701",
+      "descricao": "CABO AL TRIPLEX 2X70+70MM XLPE  - PT/CZ/AZ - NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.74128,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3702",
+      "descricao": "CABO AL TRIPLEX 2X70+70MM XLPE  - PT/CZ - NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.68208,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3951",
+      "descricao": "TRIPLEX 95 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.7893,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "3952",
+      "descricao": "TRIPLEX 95 NU  XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.7014,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "395701",
+      "descricao": "TRIPLEX 95 + 70 NI XLPE 0,6/1KV PT/CZ/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.7153,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "395702",
+      "descricao": "TRIPLEX 95 +70 NU XLPE 0,6/1KV PT/CZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.6493,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4101",
+      "descricao": "CABO AL QUADRUPLEX 10MM XLPE 0,6/1KV PT/CZ/VM/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.16102,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4102",
+      "descricao": "CABO AL QUADRUPLEX 10MM XLPE 0,6/1KV PT/CZ/VM NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.13602,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41201",
+      "descricao": "QUADRUPLEX 120 NI  XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.3136,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41202",
+      "descricao": "QUADRUPLEX 120 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.2124,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4120701",
+      "descricao": "CABO AL QUADRUPLEX 120 + 70MM XLPE 0,6/1KV PT/CZ/VM/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.17434,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4120702",
+      "descricao": "QUADRUPLEX 120 + 70 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.1083,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4120951",
+      "descricao": "QUADRUPLEX 120+95 NI XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.2483,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4120952",
+      "descricao": "QUADRUPLEX 120+95 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.1604,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41501",
+      "descricao": "QUADRUPLEX 150 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.5525,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41501201",
+      "descricao": "QUADRUPLEX 150 +120 NI  XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.4928,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41501202",
+      "descricao": "QUADRUPLEX 150+120 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.3916,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41502",
+      "descricao": "QUADRUPLEX 150 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.4319,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "415070",
+      "descricao": "QUADRUPLEX 150 + 70 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.3,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4150951",
+      "descricao": "QUADRUPLEX 150 + 95 NI  XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.4275,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4150952",
+      "descricao": "QUADRUPLEX 150 + 95 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.3396,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4161",
+      "descricao": "CABO AL QUADRUPLEX 16MM XLPE 0,6/1KV PT/CZ/VM/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2154,
+      "saldoKg": 189.55,
+      "saldoUnidade": 880.0
+    },
+    {
+      "codigo": "4162",
+      "descricao": "CABO AL QUADRUPLEX 16MM XLPE 0,6/1KV PT/CZ/VM NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2044,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41851",
+      "descricao": "QUADRUPLEX 185 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.8832,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41851201",
+      "descricao": "QUADRUPLEX 185 + 120 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.7408,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41851202",
+      "descricao": "QUADRUPLEX 185 + 120 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.6396,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41851501",
+      "descricao": "QUADRUPLEX 185 + 150 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.8005,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41851502",
+      "descricao": "QUADRUPLEX 185 + 150 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.6799,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "41852",
+      "descricao": "QUADRUPLEX 185 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.7466,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "42401",
+      "descricao": "QUADRUPLEX 240 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 2.1836,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "42401501",
+      "descricao": "QUADRUPLEX 240 + 150 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 2.0258,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "42401502",
+      "descricao": "QUADRUPLEX 240 + 150 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.9052,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "42401851",
+      "descricao": "QUADRUPLEX 240 + 185 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 2.1085,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "42401852",
+      "descricao": "QUADRUPLEX 240 + 185 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.9719,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "42402",
+      "descricao": "QUADRUPLEX 240 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 2.0331,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4251",
+      "descricao": "CABO AL QUADRUPLEX 25MM XLPE 0,6/1KV PT/CZ/VM/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3675,
+      "saldoKg": 73.5,
+      "saldoUnidade": 200.0
+    },
+    {
+      "codigo": "4252",
+      "descricao": "CABO AL QUADRUPLEX 25MM XLPE 0,6/1KV PT/CZ/VM NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.315,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4351",
+      "descricao": "CABO AL QUADRUPLEX 35MM XLPE 0,6/1KV PT/CZ/VM/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.49,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4352",
+      "descricao": "CABO AL QUADRUPLEX 35MM XLPE 0,6/1KV PT/CZ/VM NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.46706,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "435701",
+      "descricao": "QUADRUPLEX 35 + 70 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.5155,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "435702",
+      "descricao": "QUADRUPLEX 35 + 70 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.4494,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4501",
+      "descricao": "CABO AL QUADRUPLEX 50MM XLPE 0,6/1KV PT/CZ/VM/AZ NI",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.62108,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4502",
+      "descricao": "CABO AL QUADRUPLEX 50MM XLPE 0,6/1KV PT/CZ/VM NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.64163,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "450352",
+      "descricao": "QUADRUPLEX 50 + 35 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.5175,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "450701",
+      "descricao": "QUADRUPLEX 50 + 70 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.6365,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "450702",
+      "descricao": "QUADRUPLEX 50 + 70 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.5705,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4701",
+      "descricao": "QUADRUPLEX 70 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.7566,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4702",
+      "descricao": "CABO AL QUADRUPLEX 3X70+70MM XLPE - PT/CZ/VM - NU",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.696,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "470501",
+      "descricao": "QUADRUPLEX 70 + 50 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.7166,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "470502",
+      "descricao": "QUADRUPLEX 70 + 50 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.6645,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4951",
+      "descricao": "QUADRUPLEX 95 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 1.0524,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "4952",
+      "descricao": "QUADRUPLEX 95 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.9645,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "495701",
+      "descricao": "QUADRUPLEX 95 + 70 NI   XLPE 0,6/1KV PT/CZ/VM/AZ",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.9784,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "495702",
+      "descricao": "QUADRUPLEX 95 + 70 NU XLPE 0,6/1KV PT/CZ/VM",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.9124,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "CPF2X15",
+      "descricao": "CABO POTÊNCIA FLEXÍVEL 2X1,5MM 0,6/1KV HEPR",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.063,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "CPF2X400",
+      "descricao": "CABO POTÊNCIA FLEXÍVEL 2X4,00MM 0,6/1KV",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.119,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "CPF325",
+      "descricao": "CABO POTÊNCIA FLEXÍVEL 3X2,5MM 0,6/1KV",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.092,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "CPF4X15",
+      "descricao": "CABO POTÊNCIA FLEXÍVEL 4X1,5MM 0,6/1KV HEPR",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.081,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "CPF8X15",
+      "descricao": "CABO POTÊNCIA FLEXÍVEL 8X1,5MM 0,6/1KV HEPR",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.131,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "PTG35",
+      "descricao": "CABO AL PROTEGIDO CINZA 35",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.16,
+      "saldoKg": 23.52,
+      "saldoUnidade": 147.0
+    },
+    {
+      "codigo": "PTG50",
+      "descricao": "CABO AL PROTEGIDO CINZA 50",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.26993,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "PTG70",
+      "descricao": "CABO PROTEGIDO 70MM 15KV NBR 11873",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2539,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "PTG95",
+      "descricao": "CABO AL PROTEGIDO CINZA 95",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.785,
+      "saldoKg": 601.31,
+      "saldoUnidade": 766.0
+    },
+    {
+      "codigo": "SGL10AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 10MM XLP 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.383,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL10CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 10MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0383,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL10PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 10MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0383,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL10VD",
+      "descricao": "CABO DE ALUMINIO SINGELO 10MM XLPE 0,6 1KV VERDE",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.03115,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL120AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 120MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3284,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL120CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 120MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3284,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL120PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 120MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3284,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL120VD",
+      "descricao": "CABO DE ALUMINIO SINGELO 120MM XLPE 0,6 1KV VERDE",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3284,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL150AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 150MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3881,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL150CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 150MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3881,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL150PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 150MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3881,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL150V",
+      "descricao": "CABO DE ALUMINIO SINGELO 150MM XLPE 0,6 1KV VERMELHO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.3881,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL16AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 16MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0539,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL16CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 16MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0539,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL16PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 16MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0538,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL185AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 185MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.4708,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL185CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 185MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.4708,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL185PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 185MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.4708,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL240AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 240MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.5459,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL240CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 240MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.5459,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL240PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 240MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.5459,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL25AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 25MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0875,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL25CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 25MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0875,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL25PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 25MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.0875,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL35AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 35MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1245,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL35CZ",
+      "descricao": "CABO DE LUMINIO SINGELO 35MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1566,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL35PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 35MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.12284,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL50AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 50MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1528,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL50CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 50MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2264,
+      "saldoKg": 60.68,
+      "saldoUnidade": 268.0
+    },
+    {
+      "codigo": "SGL50PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 50MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1528,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL70AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 70MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1892,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL70CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 70MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1892,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL70PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 70MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.1892,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL95AZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 95MM XLPE 0,6 1KV AZUL",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2631,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL95CZ",
+      "descricao": "CABO DE ALUMINIO SINGELO 95MM XLPE 0,6 1KV CINZA",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2631,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "SGL95PT",
+      "descricao": "CABO DE ALUMINIO SINGELO 95MM XLPE 0,6 1KV PRETO",
+      "familia": "aluminio",
+      "unidade": "mt",
+      "peso": 0.2631,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "VERGCB",
+      "descricao": "VERGALHAO DE COBRE RAF 8MM NT",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 0.449,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    },
+    {
+      "codigo": "12037200",
+      "descricao": "CABO DE COBRE NU 120MM2 37 FIOS",
+      "familia": "cobre",
+      "unidade": "mt",
+      "peso": 1.04332,
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
+    }
+  ]
+}

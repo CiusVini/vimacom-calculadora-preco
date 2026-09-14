@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Calculadora de Preço · Vimacom</title>
+<style>
+  :root {
+    --bg: #0a0f1a;
+    --bg-glow: #0d1729;
+    --surface: #121a2c;
+    --surface-2: #1a2540;
+    --border: #26324e;
+
+    --text: #eef2fc;
+    --muted: #8ea0c4;
+    --faint: #5c6d92;
+
+    --accent: #22d3ee;
+    --accent-dim: #0e7a90;
+    --accent-ink: #04202a;
+
+    --green: #34d399;
+    --amber: #fbbf24;
+
+    --radius-lg: 18px;
+    --radius: 12px;
+    --radius-sm: 8px;
+
+    --font: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    --mono: ui-monospace, "SFMono-Regular", "Consolas", "Liberation Mono", monospace;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background:
+      radial-gradient(680px 420px at 15% -8%, var(--bg-glow), transparent 60%),
+      var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    -webkit-font-smoothing: antialiased;
+  }
+  .tabular { font-variant-numeric: tabular-nums; }
+
+  .shell {
+    max-width: 480px;
+    margin: 0 auto;
+    min-height: 100vh;
+    padding: 20px 16px 40px;
+  }
+
+  header { margin-bottom: 18px; }
+  header h1 {
+    font-size: 19px;
+    font-weight: 700;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+  header .sub {
+    font-size: 12.5px;
+    color: var(--faint);
+  }
+  header .sub b { color: var(--muted); font-weight: 600; }
+
+  .subnav {
+    display: flex;
+    gap: 4px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 4px;
+    margin-bottom: 16px;
+  }
+  .subnav button {
+    flex: 1 1 0;
+    border: none;
+    background: none;
+    color: var(--muted);
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 9px 8px;
+    border-radius: 999px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .subnav button.active {
+    background: var(--surface);
+    color: var(--accent);
+    box-shadow: 0 4px 10px -4px rgba(0,0,0,.4);
+  }
+
+  .field { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
+  .field label { font-size: 12px; color: var(--muted); letter-spacing: .02em; }
+  .field input {
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 13px;
+    font-size: 16px;
+    color: var(--text);
+    font-family: inherit;
+  }
+  .field input:focus { outline: none; border-color: var(--accent); }
+  .field input::placeholder { color: var(--faint); }
+
+  .section-label {
+    font-size: 11.5px;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--faint);
+    margin: 20px 0 8px;
+  }
+
+  .lista { border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; background: var(--surface); }
+  .line-row {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--border);
+    gap: 10px;
+  }
+  .line-row:last-child { border-bottom: none; }
+  .line-row .codigo { font-size: 13.5px; font-weight: 600; }
+  .line-row .desc { font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+  .line-row .right { text-align: right; flex: 0 0 auto; }
+  .line-row .preco { font-family: var(--mono); font-size: 14px; font-weight: 700; white-space: nowrap; }
+  .line-row .preco.vazio { color: var(--faint); font-weight: 500; }
+  .estoque-pill {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 10.5px; font-weight: 600;
+    padding: 2px 8px; border-radius: 999px;
+    margin-top: 4px; white-space: nowrap;
+  }
+  .estoque-pill.tem { color: var(--green); background: rgba(52,211,153,.12); }
+  .estoque-pill.zero { color: var(--faint); background: rgba(92,109,146,.14); }
+  .estoque-kg { font-size: 10px; color: var(--faint); margin-top: 2px; }
+
+  .empty-state {
+    color: var(--faint);
+    font-size: 13px;
+    text-align: center;
+    padding: 36px 16px;
+  }
+
+  footer {
+    margin-top: 22px;
+    text-align: center;
+    font-size: 11px;
+    color: var(--faint);
+  }
+</style>
+</head>
+<body>
+
+<div class="shell">
+  <header>
+    <h1>Calculadora de Preço + Estoque</h1>
+    <div class="sub">Vimacom · estoque atualizado em <b id="atualizadoEm">—</b></div>
+  </header>
+
+  <div class="subnav" id="subnav"></div>
+
+  <div class="field">
+    <label for="precoKgInput">Preço do kg nesta semana</label>
+    <input type="text" inputmode="decimal" id="precoKgInput" placeholder="Ex: 95,00" />
+  </div>
+  <div class="field">
+    <label for="buscaInput">Buscar por código ou descrição</label>
+    <input type="text" id="buscaInput" placeholder="Ex: 507300" />
+  </div>
+
+  <div class="section-label" id="contagem">Carregando…</div>
+  <div class="lista" id="lista"></div>
+
+  <footer>Estoque puxado do Kardex — pode ter algumas horas de atraso da última atualização.</footer>
+</div>
+
+<script>
+const LABELS = { cobre: 'Cobre', aluminio: 'Alumínio', barra: 'Barra' };
+const UNIDADE_LABEL = { mt: '/mt', pc: '/pc' };
+const UNIDADE_ESTOQUE_LABEL = { mt: 'm', pc: 'pç' };
+
+let DADOS = null;
+let activeFam = 'cobre';
+const precos = { cobre: null, aluminio: null, barra: null };
+const buscas = { cobre: '', aluminio: '', barra: '' };
+
+function numBR(v, casas) {
+  return Number(v).toLocaleString('pt-BR', { minimumFractionDigits: casas, maximumFractionDigits: casas });
+}
+function brl(v) {
+  return 'R$ ' + numBR(v, 2);
+}
+function safeText(s) {
+  const d = document.createElement('div');
+  d.textContent = s == null ? '' : String(s);
+  return d.innerHTML;
+}
+
+async function carregar() {
+  const resp = await fetch('dados.json?_=' + Date.now());
+  DADOS = await resp.json();
+  const dt = new Date(DADOS.atualizadoEm);
+  document.getElementById('atualizadoEm').textContent =
+    dt.toLocaleDateString('pt-BR') + ' ' + dt.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+  renderSubnav();
+  renderLista();
+}
+
+function renderSubnav() {
+  const nav = document.getElementById('subnav');
+  nav.innerHTML = Object.keys(LABELS).map(f =>
+    `<button class="${f === activeFam ? 'active' : ''}" data-fam="${f}">${LABELS[f]}</button>`
+  ).join('');
+  nav.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeFam = btn.dataset.fam;
+      document.getElementById('precoKgInput').value = precos[activeFam] !== null ? numBR(precos[activeFam], 2) : '';
+      document.getElementById('buscaInput').value = buscas[activeFam];
+      renderSubnav();
+      renderLista();
+    });
+  });
+}
+
+function renderLista() {
+  const fam = activeFam;
+  const precoAtual = precos[fam];
+  const buscaNorm = (buscas[fam] || '').trim().toUpperCase();
+  const itens = (DADOS.produtos || []).filter(p => p.familia === fam);
+  const filtrados = buscaNorm
+    ? itens.filter(p => p.codigo.toUpperCase().includes(buscaNorm) || p.descricao.toUpperCase().includes(buscaNorm))
+    : itens;
+
+  document.getElementById('contagem').textContent =
+    `${filtrados.length} itens${precoAtual === null ? ' — informe o preço do kg acima' : ''}`;
+
+  const listaEl = document.getElementById('lista');
+  if (!filtrados.length) {
+    listaEl.innerHTML = '<div class="empty-state">Nenhum item encontrado.</div>';
+    return;
+  }
+
+  listaEl.innerHTML = filtrados.map(p => {
+    const preco = precoAtual !== null ? p.peso * precoAtual : null;
+    const temEstoque = p.saldoUnidade > 0;
+    const pillClasse = temEstoque ? 'tem' : 'zero';
+    const pillTexto = temEstoque
+      ? `${numBR(p.saldoUnidade, p.unidade === 'pc' ? 0 : 0)} ${UNIDADE_ESTOQUE_LABEL[p.unidade]} em estoque`
+      : 'sem estoque';
+    return `
+      <div class="line-row">
+        <div>
+          <div class="codigo">${safeText(p.codigo)}</div>
+          <div class="desc">${safeText(p.descricao)}</div>
+        </div>
+        <div class="right">
+          <div class="preco ${preco === null ? 'vazio' : ''}">${preco === null ? '—' : brl(preco) + UNIDADE_LABEL[p.unidade]}</div>
+          <div class="estoque-pill ${pillClasse}">${pillTexto}</div>
+          <div class="estoque-kg">${numBR(p.saldoKg, 0)} kg</div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+document.getElementById('precoKgInput').addEventListener('input', (e) => {
+  const v = parseFloat(e.target.value.replace(',', '.'));
+  precos[activeFam] = isNaN(v) ? null : v;
+  renderLista();
+});
+document.getElementById('buscaInput').addEventListener('input', (e) => {
+  buscas[activeFam] = e.target.value;
+  renderLista();
+});
+
+carregar();
+</script>
+
+</body>
+</html>
