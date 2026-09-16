@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T17:09:55-03:00",
+  "atualizadoEm": "2026-09-16T17:18:06-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -115,7 +115,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.11794,
-      "saldoKg": 399.11,
+      "saldoKg": 381.42,
       "saldoUnidade": 3233.0
     },
     {
@@ -133,8 +133,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 463.68,
-      "saldoUnidade": 3220.0
+      "saldoKg": 438.48,
+      "saldoUnidade": 3045.0
     },
     {
       "codigo": "161135",
@@ -178,7 +178,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 0.0,
+      "saldoKg": 14.4,
       "saldoUnidade": 0.0
     },
     {
@@ -241,8 +241,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.23761,
-      "saldoKg": 45.86,
-      "saldoUnidade": 193.0
+      "saldoKg": 95.75,
+      "saldoUnidade": 403.0
     },
     {
       "codigo": "357230",
@@ -250,8 +250,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.263,
-      "saldoKg": 338.48,
-      "saldoUnidade": 1287.0
+      "saldoKg": 271.94,
+      "saldoUnidade": 1034.0
     },
     {
       "codigo": "357240",
@@ -259,8 +259,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.28277,
-      "saldoKg": 306.81,
-      "saldoUnidade": 1081.0
+      "saldoKg": 277.4,
+      "saldoUnidade": 977.0
     },
     {
       "codigo": "357250",
@@ -268,8 +268,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.31,
-      "saldoKg": 8.99,
-      "saldoUnidade": 28.0
+      "saldoKg": 21.39,
+      "saldoUnidade": 68.0
     },
     {
       "codigo": "351220",
@@ -340,7 +340,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.325,
-      "saldoKg": 1127.67,
+      "saldoKg": 645.07,
       "saldoUnidade": 2005.0
     },
     {
@@ -349,8 +349,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.355,
-      "saldoKg": 405.41,
-      "saldoUnidade": 1142.0
+      "saldoKg": 724.91,
+      "saldoUnidade": 2042.0
     },
     {
       "codigo": "5019170",
@@ -439,8 +439,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.35973,
-      "saldoKg": 71.95,
-      "saldoUnidade": 200.0
+      "saldoKg": 278.43,
+      "saldoUnidade": 774.0
     },
     {
       "codigo": "507290",
@@ -457,8 +457,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 52.84,
-      "saldoUnidade": 119.0
+      "saldoKg": 1052.28,
+      "saldoUnidade": 2370.0
     },
     {
       "codigo": "501270",
@@ -484,8 +484,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 44.4,
+      "saldoUnidade": 100.0
     },
     {
       "codigo": "7019200",
@@ -502,8 +502,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.6,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 711.57,
+      "saldoUnidade": 1170.0
     },
     {
       "codigo": "701200",
@@ -790,8 +790,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.97,
-      "saldoKg": 76.0,
-      "saldoUnidade": 80.0
+      "saldoKg": 21.85,
+      "saldoUnidade": 23.0
     },
     {
       "codigo": "1316183",
@@ -1105,8 +1105,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.1011,
-      "saldoKg": 2022.0,
-      "saldoUnidade": 20000.0
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "31851",
