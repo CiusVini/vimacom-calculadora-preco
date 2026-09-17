@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T17:18:06-03:00",
+  "atualizadoEm": "2026-09-17T17:05:27-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -133,8 +133,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 438.48,
-      "saldoUnidade": 3045.0
+      "saldoKg": 438.19,
+      "saldoUnidade": 3043.0
     },
     {
       "codigo": "161135",
@@ -178,7 +178,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 14.4,
+      "saldoKg": 14.69,
       "saldoUnidade": 0.0
     },
     {
@@ -349,8 +349,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.355,
-      "saldoKg": 724.91,
-      "saldoUnidade": 2042.0
+      "saldoKg": 690.83,
+      "saldoUnidade": 1946.0
     },
     {
       "codigo": "5019170",
@@ -367,8 +367,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 287.0,
-      "saldoUnidade": 700.0
+      "saldoKg": 190.65,
+      "saldoUnidade": 465.0
     },
     {
       "codigo": "501129",
@@ -430,7 +430,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 0.0,
+      "saldoKg": 28.7,
       "saldoUnidade": 0.0
     },
     {
@@ -790,8 +790,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.97,
-      "saldoKg": 21.85,
-      "saldoUnidade": 23.0
+      "saldoKg": 2185.0,
+      "saldoUnidade": 260.0
     },
     {
       "codigo": "1316183",
@@ -799,8 +799,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.485,
-      "saldoKg": 6.18,
-      "saldoUnidade": 13.0
+      "saldoKg": 274.08,
+      "saldoUnidade": 40.0
     },
     {
       "codigo": "3414",
@@ -835,7 +835,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.088,
-      "saldoKg": 0.0,
+      "saldoKg": 1196.8,
       "saldoUnidade": 0.0
     },
     {
@@ -1105,8 +1105,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.1011,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 1011.0,
+      "saldoUnidade": 10000.0
     },
     {
       "codigo": "31851",
