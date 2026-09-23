@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-22T17:08:55-03:00",
+  "atualizadoEm": "2026-09-23T16:48:27-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -205,8 +205,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.21,
-      "saldoKg": 369.15,
-      "saldoUnidade": 1745.0
+      "saldoKg": 362.81,
+      "saldoUnidade": 1715.0
     },
     {
       "codigo": "251190",
@@ -232,8 +232,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.21,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 6.3,
+      "saldoUnidade": 30.0
     },
     {
       "codigo": "357220",
@@ -259,7 +259,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.28277,
-      "saldoKg": 234.98,
+      "saldoKg": 150.15,
       "saldoUnidade": 527.0
     },
     {
@@ -367,8 +367,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 369.82,
-      "saldoUnidade": 902.0
+      "saldoKg": 312.42,
+      "saldoUnidade": 762.0
     },
     {
       "codigo": "501129",
@@ -430,8 +430,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 24.6,
+      "saldoUnidade": 60.0
     },
     {
       "codigo": "507270",
@@ -538,8 +538,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.54,
-      "saldoKg": 784.58,
-      "saldoUnidade": 1460.0
+      "saldoKg": 766.31,
+      "saldoUnidade": 1426.0
     },
     {
       "codigo": "701345",
@@ -646,7 +646,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 1.138,
-      "saldoKg": 648.66,
+      "saldoKg": 534.86,
       "saldoUnidade": 470.0
     },
     {
@@ -655,7 +655,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.98589,
-      "saldoKg": 28.95,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
@@ -790,8 +790,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.97,
-      "saldoKg": 52.25,
-      "saldoUnidade": 25.0
+      "saldoKg": 3220.5,
+      "saldoUnidade": 100.0
     },
     {
       "codigo": "1316183",
@@ -835,8 +835,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.088,
-      "saldoKg": 134.91,
-      "saldoUnidade": 124.0
+      "saldoKg": 80.51,
+      "saldoUnidade": 44.0
     },
     {
       "codigo": "78183",
