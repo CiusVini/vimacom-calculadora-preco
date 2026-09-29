@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-28T17:14:33-03:00",
+  "atualizadoEm": "2026-09-29T16:53:32-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -70,8 +70,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.06526,
-      "saldoKg": 103.76,
-      "saldoUnidade": 1590.0
+      "saldoKg": 90.71,
+      "saldoUnidade": 1390.0
     },
     {
       "codigo": "101129",
@@ -187,8 +187,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.179,
-      "saldoKg": 619.34,
-      "saldoUnidade": 3460.0
+      "saldoKg": 601.44,
+      "saldoUnidade": 3360.0
     },
     {
       "codigo": "257200",
@@ -205,8 +205,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.21,
-      "saldoKg": 362.81,
-      "saldoUnidade": 1715.0
+      "saldoKg": 335.31,
+      "saldoUnidade": 1585.0
     },
     {
       "codigo": "251190",
@@ -232,7 +232,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.21,
-      "saldoKg": 0.0,
+      "saldoKg": 27.3,
       "saldoUnidade": 0.0
     },
     {
@@ -241,8 +241,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.23761,
-      "saldoKg": 92.67,
-      "saldoUnidade": 390.0
+      "saldoKg": 71.28,
+      "saldoUnidade": 300.0
     },
     {
       "codigo": "357230",
@@ -259,8 +259,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.28277,
-      "saldoKg": 150.15,
-      "saldoUnidade": 527.0
+      "saldoKg": 133.18,
+      "saldoUnidade": 467.0
     },
     {
       "codigo": "357250",
@@ -277,7 +277,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.23761,
-      "saldoKg": 0.0,
+      "saldoKg": 21.42,
       "saldoUnidade": 0.0
     },
     {
@@ -331,8 +331,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.238,
-      "saldoKg": 773.86,
-      "saldoUnidade": 2658.0
+      "saldoKg": 678.12,
+      "saldoUnidade": 2408.0
     },
     {
       "codigo": "5019155",
@@ -340,8 +340,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.325,
-      "saldoKg": 405.38,
-      "saldoUnidade": 1260.0
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "5019162",
@@ -367,8 +367,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 1143.08,
-      "saldoUnidade": 2788.0
+      "saldoKg": 927.42,
+      "saldoUnidade": 2262.0
     },
     {
       "codigo": "501129",
@@ -377,7 +377,7 @@
       "unidade": "mt",
       "peso": 0.2232,
       "saldoKg": 810.22,
-      "saldoUnidade": 3630.0
+      "saldoUnidade": 3530.0
     },
     {
       "codigo": "501135",
@@ -439,8 +439,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.35973,
-      "saldoKg": 256.85,
-      "saldoUnidade": 714.0
+      "saldoKg": 200.37,
+      "saldoUnidade": 557.0
     },
     {
       "codigo": "507290",
@@ -448,8 +448,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.415,
-      "saldoKg": 160.19,
-      "saldoUnidade": 384.0
+      "saldoKg": 126.99,
+      "saldoUnidade": 304.0
     },
     {
       "codigo": "507300",
@@ -457,8 +457,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 856.92,
-      "saldoUnidade": 1930.0
+      "saldoKg": 590.52,
+      "saldoUnidade": 1330.0
     },
     {
       "codigo": "501270",
@@ -466,8 +466,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.35973,
-      "saldoKg": 35.9,
-      "saldoUnidade": 100.0
+      "saldoKg": 89.75,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "501290",
@@ -502,8 +502,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.6,
-      "saldoKg": 711.57,
-      "saldoUnidade": 1170.0
+      "saldoKg": 675.08,
+      "saldoUnidade": 1110.0
     },
     {
       "codigo": "701200",
@@ -808,7 +808,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.88,
-      "saldoKg": 324.68,
+      "saldoKg": 138.08,
       "saldoUnidade": 74.0
     },
     {
