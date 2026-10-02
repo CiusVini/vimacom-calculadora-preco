@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T16:51:47-03:00",
+  "atualizadoEm": "2026-10-02T16:47:15-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -133,8 +133,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 366.19,
-      "saldoUnidade": 2543.0
+      "saldoKg": 362.74,
+      "saldoUnidade": 2319.0
     },
     {
       "codigo": "161135",
@@ -205,7 +205,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.21,
-      "saldoKg": 335.31,
+      "saldoKg": 293.0,
       "saldoUnidade": 1385.0
     },
     {
@@ -250,7 +250,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.263,
-      "saldoKg": 1042.53,
+      "saldoKg": 1029.38,
       "saldoUnidade": 3914.0
     },
     {
@@ -269,7 +269,7 @@
       "unidade": "mt",
       "peso": 0.31,
       "saldoKg": 95.48,
-      "saldoUnidade": 307.0
+      "saldoUnidade": 107.0
     },
     {
       "codigo": "351220",
@@ -367,7 +367,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 927.42,
+      "saldoKg": 763.42,
       "saldoUnidade": 1862.0
     },
     {
@@ -457,8 +457,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 419.58,
-      "saldoUnidade": 545.0
+      "saldoKg": 182.04,
+      "saldoUnidade": 410.0
     },
     {
       "codigo": "501270",
@@ -466,7 +466,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.35973,
-      "saldoKg": 71.8,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
@@ -610,8 +610,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.838,
-      "saldoKg": 294.14,
-      "saldoUnidade": 351.0
+      "saldoKg": 252.24,
+      "saldoUnidade": 301.0
     },
     {
       "codigo": "951400",
@@ -790,7 +790,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.97,
-      "saldoKg": 1670.1,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
@@ -799,7 +799,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.485,
-      "saldoKg": 900.6,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
@@ -835,7 +835,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.088,
-      "saldoKg": 217.6,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
@@ -844,7 +844,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.544,
-      "saldoKg": 272.0,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
