@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T16:47:15-03:00",
+  "atualizadoEm": "2026-10-05T17:12:59-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -133,8 +133,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 362.74,
-      "saldoUnidade": 2319.0
+      "saldoKg": 359.86,
+      "saldoUnidade": 2499.0
     },
     {
       "codigo": "161135",
@@ -268,8 +268,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.31,
-      "saldoKg": 95.48,
-      "saldoUnidade": 107.0
+      "saldoKg": 59.83,
+      "saldoUnidade": 192.0
     },
     {
       "codigo": "351220",
@@ -331,8 +331,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.238,
-      "saldoKg": 678.12,
-      "saldoUnidade": 2408.0
+      "saldoKg": 565.47,
+      "saldoUnidade": 2008.0
     },
     {
       "codigo": "5019155",
@@ -367,8 +367,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 763.42,
-      "saldoUnidade": 1862.0
+      "saldoKg": 742.92,
+      "saldoUnidade": 1812.0
     },
     {
       "codigo": "501129",
@@ -439,8 +439,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.35973,
-      "saldoKg": 87.05,
-      "saldoUnidade": 242.0
+      "saldoKg": 36.69,
+      "saldoUnidade": 102.0
     },
     {
       "codigo": "507290",
@@ -448,8 +448,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.415,
-      "saldoKg": 126.99,
-      "saldoUnidade": 304.0
+      "saldoKg": 2.49,
+      "saldoUnidade": 4.0
     },
     {
       "codigo": "507300",
@@ -457,8 +457,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 182.04,
-      "saldoUnidade": 410.0
+      "saldoKg": 118.1,
+      "saldoUnidade": 266.0
     },
     {
       "codigo": "501270",
