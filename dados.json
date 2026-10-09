@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T17:28:23-03:00",
+  "atualizadoEm": "2026-10-09T17:08:44-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -331,8 +331,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.238,
-      "saldoKg": 565.47,
-      "saldoUnidade": 2008.0
+      "saldoKg": 490.28,
+      "saldoUnidade": 1741.0
     },
     {
       "codigo": "5019155",
@@ -367,8 +367,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 332.92,
-      "saldoUnidade": 812.0
+      "saldoKg": 248.87,
+      "saldoUnidade": 607.0
     },
     {
       "codigo": "501129",
@@ -790,8 +790,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.97,
-      "saldoKg": 361.95,
-      "saldoUnidade": 292.0
+      "saldoKg": 52.25,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "1316183",
@@ -889,8 +889,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.11308,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 113.08,
+      "saldoUnidade": 1000.0
     },
     {
       "codigo": "2162",
@@ -898,8 +898,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.0912,
-      "saldoKg": 29.28,
-      "saldoUnidade": 321.0
+      "saldoKg": 120.48,
+      "saldoUnidade": 1321.0
     },
     {
       "codigo": "2251",
@@ -1087,8 +1087,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.1407,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 140.7,
+      "saldoUnidade": 1000.0
     },
     {
       "codigo": "3162",
@@ -1096,8 +1096,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.1011,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 140.6,
+      "saldoUnidade": 1000.0
     },
     {
       "codigo": "3162PT",
