@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T17:06:20-03:00",
+  "atualizadoEm": "2026-10-26T17:28:07-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -116,7 +116,7 @@
       "unidade": "mt",
       "peso": 0.11794,
       "saldoKg": 92.11,
-      "saldoUnidade": 780.0
+      "saldoUnidade": 710.0
     },
     {
       "codigo": "167162",
@@ -188,7 +188,7 @@
       "unidade": "mt",
       "peso": 0.179,
       "saldoKg": 543.27,
-      "saldoUnidade": 3035.0
+      "saldoUnidade": 3020.0
     },
     {
       "codigo": "257200",
@@ -251,7 +251,7 @@
       "unidade": "mt",
       "peso": 0.263,
       "saldoKg": 785.58,
-      "saldoUnidade": 2987.0
+      "saldoUnidade": 2937.0
     },
     {
       "codigo": "357240",
@@ -331,8 +331,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.238,
-      "saldoKg": 144.18,
-      "saldoUnidade": 512.0
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "5019155",
@@ -448,8 +448,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.415,
-      "saldoKg": 597.19,
-      "saldoUnidade": 1439.0
+      "saldoKg": 98.36,
+      "saldoUnidade": 237.0
     },
     {
       "codigo": "507300",
@@ -538,8 +538,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.54,
-      "saldoKg": 766.31,
-      "saldoUnidade": 1426.0
+      "saldoKg": 755.56,
+      "saldoUnidade": 906.0
     },
     {
       "codigo": "701345",
@@ -610,8 +610,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.838,
-      "saldoKg": 143.3,
-      "saldoUnidade": 171.0
+      "saldoKg": 17.6,
+      "saldoUnidade": 21.0
     },
     {
       "codigo": "951400",
@@ -808,8 +808,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.88,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 186.6,
+      "saldoUnidade": 100.0
     },
     {
       "codigo": "34143",
@@ -835,8 +835,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.088,
-      "saldoKg": 2.18,
-      "saldoUnidade": 2.0
+      "saldoKg": 23.94,
+      "saldoUnidade": 22.0
     },
     {
       "codigo": "78183",
