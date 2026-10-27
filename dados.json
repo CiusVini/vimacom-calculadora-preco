@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T17:28:07-03:00",
+  "atualizadoEm": "2026-10-27T13:40:43-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -807,7 +807,7 @@
       "descricao": "BARRA CHATA DE ALUMINIO 3/4X1/4 COM 6MTS",
       "familia": "barra",
       "unidade": "pc",
-      "peso": 1.88,
+      "peso": 1.88093,
       "saldoKg": 186.6,
       "saldoUnidade": 100.0
     },
@@ -816,7 +816,7 @@
       "descricao": "BARRA CHATA DE ALUMINIO 3/4X1/4 COM 3 MTS",
       "familia": "barra",
       "unidade": "pc",
-      "peso": 0.906,
+      "peso": 0.9055,
       "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
@@ -834,7 +834,7 @@
       "descricao": "BARRA CHATA DE ALUMINIO 7/8X1/8 COM 6MTS ABNT",
       "familia": "barra",
       "unidade": "pc",
-      "peso": 1.088,
+      "peso": 1.08,
       "saldoKg": 23.94,
       "saldoUnidade": 22.0
     },
@@ -843,7 +843,7 @@
       "descricao": "BARRA CHATA DE ALUMINIO 7/8X1/8 COM 3MTS ABNT",
       "familia": "barra",
       "unidade": "pc",
-      "peso": 0.544,
+      "peso": 0.54,
       "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
@@ -1095,7 +1095,7 @@
       "descricao": "CABO AL TRIPLEX 16MM XLPE 0,6/1KV PT/CZ NU",
       "familia": "aluminio",
       "unidade": "mt",
-      "peso": 0.1011,
+      "peso": 0.1406,
       "saldoKg": 140.6,
       "saldoUnidade": 1000.0
     },
