@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T16:58:44-03:00",
+  "atualizadoEm": "2026-10-30T10:01:30-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -53,7 +53,7 @@
       "unidade": "mt",
       "peso": 0.08169,
       "saldoKg": 110.28,
-      "saldoUnidade": 1250.0
+      "saldoUnidade": 950.0
     },
     {
       "codigo": "107135",
@@ -62,7 +62,7 @@
       "unidade": "mt",
       "peso": 0.0922,
       "saldoKg": 593.95,
-      "saldoUnidade": 6342.0
+      "saldoUnidade": 6327.0
     },
     {
       "codigo": "101115",
@@ -251,7 +251,7 @@
       "unidade": "mt",
       "peso": 0.263,
       "saldoKg": 635.67,
-      "saldoUnidade": 2417.0
+      "saldoUnidade": 2377.0
     },
     {
       "codigo": "357240",
@@ -269,7 +269,7 @@
       "unidade": "mt",
       "peso": 0.31,
       "saldoKg": 0.31,
-      "saldoUnidade": 0.0
+      "saldoUnidade": 1951.0
     },
     {
       "codigo": "351220",
@@ -341,7 +341,7 @@
       "unidade": "mt",
       "peso": 0.325,
       "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoUnidade": 1000.0
     },
     {
       "codigo": "5019162",
@@ -359,7 +359,7 @@
       "unidade": "mt",
       "peso": 0.383,
       "saldoKg": 410.88,
-      "saldoUnidade": 1070.0
+      "saldoUnidade": 1055.0
     },
     {
       "codigo": "5019178",
@@ -440,7 +440,7 @@
       "unidade": "mt",
       "peso": 0.35973,
       "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoUnidade": 908.0
     },
     {
       "codigo": "507290",
@@ -458,7 +458,7 @@
       "unidade": "mt",
       "peso": 0.444,
       "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoUnidade": 165.0
     },
     {
       "codigo": "501270",
@@ -575,7 +575,7 @@
       "unidade": "mt",
       "peso": 0.84571,
       "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoUnidade": 580.0
     },
     {
       "codigo": "95119240",
@@ -602,7 +602,7 @@
       "unidade": "mt",
       "peso": 0.78938,
       "saldoKg": 155.51,
-      "saldoUnidade": 197.0
+      "saldoUnidade": 157.0
     },
     {
       "codigo": "957412",
@@ -647,7 +647,7 @@
       "unidade": "mt",
       "peso": 1.138,
       "saldoKg": 219.63,
-      "saldoUnidade": 193.0
+      "saldoUnidade": 522.0
     },
     {
       "codigo": "120119270",
@@ -1086,7 +1086,7 @@
       "descricao": "CABO AL TRIPLEX 16MM XLPE 0,6/1KV PT/CZ/AZ NI",
       "familia": "aluminio",
       "unidade": "mt",
-      "peso": 0.1407,
+      "peso": 0.16994,
       "saldoKg": 70.35,
       "saldoUnidade": 200.0
     },
@@ -1095,7 +1095,7 @@
       "descricao": "CABO AL TRIPLEX 16MM XLPE 0,6/1KV PT/CZ NU",
       "familia": "aluminio",
       "unidade": "mt",
-      "peso": 0.1406,
+      "peso": 0.13293,
       "saldoKg": 140.6,
       "saldoUnidade": 700.0
     },
@@ -1214,7 +1214,7 @@
       "unidade": "mt",
       "peso": 0.43233,
       "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoUnidade": 1000.0
     },
     {
       "codigo": "3701",
