@@ -144,6 +144,45 @@
   .estoque-pill.zero { color: var(--faint); background: rgba(92,109,146,.14); }
   .estoque-kg { font-size: 10px; color: var(--faint); margin-top: 2px; }
 
+  .line-row.clicavel { cursor: pointer; }
+  .line-row.clicavel:hover, .line-row.clicavel:focus-visible { background: var(--surface-2); outline: none; }
+  .estoque-pill .seta { opacity: .7; }
+
+  .modal-fundo {
+    position: fixed; inset: 0; z-index: 10;
+    background: rgba(4,8,16,.72);
+    display: none; align-items: flex-end; justify-content: center;
+  }
+  .modal-fundo.aberto { display: flex; }
+  .modal {
+    width: 100%; max-width: 480px; max-height: 85vh; overflow-y: auto;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    padding: 18px 16px calc(22px + env(safe-area-inset-bottom));
+  }
+  .modal-topo { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 14px; }
+  .modal-topo .codigo { font-size: 15px; font-weight: 700; }
+  .modal-topo .desc { font-size: 12px; color: var(--muted); margin-top: 3px; }
+  .modal-fechar {
+    flex: 0 0 auto; border: 1px solid var(--border); background: var(--surface-2);
+    color: var(--muted); border-radius: 999px; width: 34px; height: 34px;
+    font-size: 18px; line-height: 1; cursor: pointer; font-family: inherit;
+  }
+  .bob-tabela { border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .bob-linha {
+    display: grid; grid-template-columns: 1fr auto auto; gap: 12px; align-items: center;
+    padding: 11px 14px; border-bottom: 1px solid var(--border); font-size: 13px;
+  }
+  .bob-linha:last-child { border-bottom: none; }
+  .bob-linha.cab { font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--faint); background: var(--surface-2); padding-top: 8px; padding-bottom: 8px; }
+  .bob-linha .num { font-family: var(--mono); text-align: right; white-space: nowrap; }
+  .bob-linha .sub { font-size: 10.5px; color: var(--faint); font-family: var(--font); }
+  .bob-linha.reservada { color: var(--faint); }
+  .bob-linha.reservada .tag { color: var(--amber); font-size: 10.5px; font-weight: 600; }
+  .bob-total { display: flex; justify-content: space-between; margin-top: 12px; font-size: 13px; color: var(--muted); }
+  .bob-total b { color: var(--text); font-family: var(--mono); }
+  .bob-nota { margin-top: 10px; font-size: 11px; color: var(--faint); }
+
   .empty-state {
     color: var(--faint);
     font-size: 13px;
@@ -180,6 +219,19 @@
 
   <div class="section-label" id="contagem">Carregando…</div>
   <div class="lista" id="lista"></div>
+
+  <div class="modal-fundo" id="modalFundo" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalCodigo">
+      <div class="modal-topo">
+        <div>
+          <div class="codigo" id="modalCodigo"></div>
+          <div class="desc" id="modalDesc"></div>
+        </div>
+        <button class="modal-fechar" id="modalFechar" aria-label="Fechar">×</button>
+      </div>
+      <div id="modalCorpo"></div>
+    </div>
+  </div>
 
   <footer>Estoque puxado do Kardex — pode ter algumas horas de atraso da última atualização.</footer>
 </div>
@@ -257,21 +309,105 @@ function renderLista() {
     const pillTexto = temEstoque
       ? `${numBR(p.saldoUnidade, p.unidade === 'pc' ? 0 : 0)} ${UNIDADE_ESTOQUE_LABEL[p.unidade]} em estoque`
       : 'sem estoque';
+    const clicavel = temEstoque && p.bobinas && p.bobinas.length;
     return `
-      <div class="line-row">
+      <div class="line-row${clicavel ? ' clicavel' : ''}"${clicavel ? ` data-codigo="${safeText(p.codigo)}" role="button" tabindex="0" aria-label="Ver bobinas de ${safeText(p.codigo)}"` : ''}>
         <div>
           <div class="codigo">${safeText(p.codigo)}</div>
           <div class="desc">${safeText(p.descricao)}</div>
         </div>
         <div class="right">
           <div class="preco ${preco === null ? 'vazio' : ''}">${preco === null ? '—' : brl(preco) + UNIDADE_LABEL[p.unidade]}</div>
-          <div class="estoque-pill ${pillClasse}">${pillTexto}</div>
+          <div class="estoque-pill ${pillClasse}">${pillTexto}${clicavel ? ' <span class="seta">›</span>' : ''}</div>
           <div class="estoque-kg">${numBR(p.saldoKg, 0)} kg</div>
         </div>
       </div>
     `;
   }).join('');
 }
+
+let modalCodigoAberto = null;
+let ultimoFoco = null;
+
+function abrirBobinas(codigo) {
+  const p = (DADOS.produtos || []).find(x => x.codigo === codigo);
+  if (!p || !p.bobinas) return;
+  modalCodigoAberto = codigo;
+  document.getElementById('modalCodigo').textContent = p.codigo;
+  document.getElementById('modalDesc').textContent = p.descricao;
+  renderModalCorpo();
+  const fundo = document.getElementById('modalFundo');
+  fundo.classList.add('aberto');
+  fundo.setAttribute('aria-hidden', 'false');
+  document.getElementById('modalFechar').focus();
+}
+
+function fecharBobinas() {
+  const fundo = document.getElementById('modalFundo');
+  fundo.classList.remove('aberto');
+  fundo.setAttribute('aria-hidden', 'true');
+  modalCodigoAberto = null;
+  if (ultimoFoco) ultimoFoco.focus();
+}
+
+function renderModalCorpo() {
+  const p = (DADOS.produtos || []).find(x => x.codigo === modalCodigoAberto);
+  if (!p) return;
+  const precoKg = precos[p.familia];
+  const comPreco = precoKg !== null && precoKg !== undefined;
+  const bobs = p.bobinas;
+  const disponiveis = bobs.filter(b => b.metros > 0);
+  const totalM = disponiveis.reduce((s, b) => s + b.metros, 0);
+  const totalKg = disponiveis.reduce((s, b) => s + b.kg, 0);
+  const temReserva = bobs.some(b => b.reservadoM > 0);
+
+  const linhas = bobs.map(b => {
+    const reservada = b.metros <= 0;
+    const valorLance = comPreco && !reservada ? brl(b.kg * precoKg) : null;
+    const metrosTxt = reservada
+      ? `<span class="tag">reservada</span>`
+      : `${numBR(b.metros, 0)} m`;
+    const subTxt = reservada ? `${numBR(b.reservadoM, 0)} m` : `${numBR(b.kg, 1)} kg`;
+    return `
+      <div class="bob-linha${reservada ? ' reservada' : ''}">
+        <div>${safeText(b.rotulo)}</div>
+        <div class="num">${metrosTxt}<div class="sub">${subTxt}</div></div>
+        <div class="num">${valorLance === null ? '—' : valorLance}</div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('modalCorpo').innerHTML = `
+    <div class="bob-tabela">
+      <div class="bob-linha cab"><div>Bobina</div><div class="num">Metragem</div><div class="num">${comPreco ? 'Valor' : ''}</div></div>
+      ${linhas}
+    </div>
+    <div class="bob-total"><span>Total disponível (${disponiveis.length} ${disponiveis.length === 1 ? 'bobina' : 'bobinas'})</span><b>${numBR(totalM, 0)} m · ${numBR(totalKg, 1)} kg</b></div>
+    ${comPreco ? '' : '<div class="bob-nota">Informe o preço do kg na tela principal para ver o valor de cada bobina.</div>'}
+    ${temReserva ? '<div class="bob-nota">Bobinas reservadas já estão fora do total disponível.</div>' : ''}
+  `;
+}
+
+document.getElementById('lista').addEventListener('click', (e) => {
+  const linha = e.target.closest('.line-row.clicavel');
+  if (!linha) return;
+  ultimoFoco = linha;
+  abrirBobinas(linha.dataset.codigo);
+});
+document.getElementById('lista').addEventListener('keydown', (e) => {
+  if (e.key !== 'Enter' && e.key !== ' ') return;
+  const linha = e.target.closest('.line-row.clicavel');
+  if (!linha) return;
+  e.preventDefault();
+  ultimoFoco = linha;
+  abrirBobinas(linha.dataset.codigo);
+});
+document.getElementById('modalFechar').addEventListener('click', fecharBobinas);
+document.getElementById('modalFundo').addEventListener('click', (e) => {
+  if (e.target.id === 'modalFundo') fecharBobinas();
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && modalCodigoAberto) fecharBobinas();
+});
 
 document.getElementById('precoKgInput').addEventListener('input', (e) => {
   const v = parseFloat(e.target.value.replace(',', '.'));
