@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T11:10:09-03:00",
+  "atualizadoEm": "2026-11-05T17:23:34-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -52,14 +52,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.08169,
-      "saldoKg": 8.17,
-      "saldoUnidade": 0.0,
+      "saldoKg": 89.86,
+      "saldoUnidade": 100.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 0.0,
-          "kg": 0.0,
-          "reservadoM": 100.0
+          "metros": 100.0,
+          "kg": 8.17,
+          "reservadoM": 1000.0
         }
       ]
     },
@@ -69,8 +69,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.0922,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 55.32,
+      "saldoUnidade": 0.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 0.0,
+          "kg": 0.0,
+          "reservadoM": 600.0
+        }
+      ]
     },
     {
       "codigo": "101115",
@@ -115,13 +123,13 @@
       "unidade": "mt",
       "peso": 0.10322,
       "saldoKg": 10.32,
-      "saldoUnidade": 0.0,
+      "saldoUnidade": 100.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 0.0,
-          "kg": 0.0,
-          "reservadoM": 100.0
+          "metros": 100.0,
+          "kg": 10.32,
+          "reservadoM": 0.0
         }
       ]
     },
@@ -131,14 +139,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.11794,
-      "saldoKg": 7.2,
-      "saldoUnidade": 60.0,
+      "saldoKg": 530.85,
+      "saldoUnidade": 810.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 60.0,
-          "kg": 7.08,
-          "reservadoM": 0.0
+          "metros": 810.0,
+          "kg": 95.53,
+          "reservadoM": 3690.0
         }
       ]
     },
@@ -148,8 +156,22 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.12884,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 90.18,
+      "saldoUnidade": 700.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina C",
+          "metros": 100.0,
+          "kg": 12.88,
+          "reservadoM": 0.0
+        },
+        {
+          "rotulo": "Bobina D",
+          "metros": 600.0,
+          "kg": 77.3,
+          "reservadoM": 0.0
+        }
+      ]
     },
     {
       "codigo": "167170",
@@ -157,14 +179,20 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 54.58,
-      "saldoUnidade": 379.0,
+      "saldoKg": 1103.33,
+      "saldoUnidade": 6362.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 379.0,
-          "kg": 53.82,
-          "reservadoM": 0.0
+          "metros": 79.0,
+          "kg": 11.22,
+          "reservadoM": 300.0
+        },
+        {
+          "rotulo": "Bobina B",
+          "metros": 6283.0,
+          "kg": 892.19,
+          "reservadoM": 1000.0
         }
       ]
     },
@@ -228,8 +256,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.19637,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 117.82,
+      "saldoUnidade": 600.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 600.0,
+          "kg": 117.82,
+          "reservadoM": 0.0
+        }
+      ]
     },
     {
       "codigo": "257206",
@@ -238,13 +274,13 @@
       "unidade": "mt",
       "peso": 0.21,
       "saldoKg": 473.87,
-      "saldoUnidade": 840.0,
+      "saldoUnidade": 690.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 840.0,
-          "kg": 176.4,
-          "reservadoM": 1400.0
+          "metros": 690.0,
+          "kg": 144.9,
+          "reservadoM": 1550.0
         }
       ]
     },
@@ -281,8 +317,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.23761,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 35.64,
+      "saldoUnidade": 0.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina D",
+          "metros": 0.0,
+          "kg": 0.0,
+          "reservadoM": 150.0
+        }
+      ]
     },
     {
       "codigo": "357230",
@@ -290,14 +334,20 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.263,
-      "saldoKg": 142.02,
-      "saldoUnidade": 540.0,
+      "saldoKg": 273.52,
+      "saldoUnidade": 660.0,
       "bobinas": [
+        {
+          "rotulo": "Bobina B",
+          "metros": 120.0,
+          "kg": 31.56,
+          "reservadoM": 180.0
+        },
         {
           "rotulo": "Bobina C",
           "metros": 540.0,
           "kg": 142.02,
-          "reservadoM": 0.0
+          "reservadoM": 200.0
         }
       ]
     },
@@ -316,14 +366,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.31,
-      "saldoKg": 127.72,
-      "saldoUnidade": 410.0,
+      "saldoKg": 592.72,
+      "saldoUnidade": 1010.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 410.0,
-          "kg": 127.1,
-          "reservadoM": 0.0
+          "metros": 1010.0,
+          "kg": 313.1,
+          "reservadoM": 900.0
         }
       ]
     },
@@ -387,8 +437,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.238,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 140.81,
+      "saldoUnidade": 0.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 0.0,
+          "kg": 0.0,
+          "reservadoM": 500.0
+        }
+      ]
     },
     {
       "codigo": "5019155",
@@ -413,8 +471,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.355,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 355.0,
+      "saldoUnidade": 0.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 0.0,
+          "kg": 0.0,
+          "reservadoM": 1000.0
+        }
+      ]
     },
     {
       "codigo": "5019170",
@@ -422,8 +488,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.383,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 230.4,
+      "saldoUnidade": 500.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 500.0,
+          "kg": 191.5,
+          "reservadoM": 100.0
+        }
+      ]
     },
     {
       "codigo": "5019178",
@@ -431,8 +505,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 574.0,
+      "saldoUnidade": 650.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 650.0,
+          "kg": 266.5,
+          "reservadoM": 750.0
+        }
+      ]
     },
     {
       "codigo": "501129",
@@ -512,13 +594,13 @@
       "unidade": "mt",
       "peso": 0.35973,
       "saldoKg": 140.29,
-      "saldoUnidade": 390.0,
+      "saldoUnidade": 90.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 390.0,
-          "kg": 140.29,
-          "reservadoM": 0.0
+          "metros": 90.0,
+          "kg": 32.38,
+          "reservadoM": 300.0
         }
       ]
     },
@@ -537,14 +619,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 44.4,
-      "saldoUnidade": 0.0,
+      "saldoKg": 1168.16,
+      "saldoUnidade": 181.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 0.0,
-          "kg": 0.0,
-          "reservadoM": 100.0
+          "metros": 181.0,
+          "kg": 80.36,
+          "reservadoM": 2450.0
         }
       ]
     },
@@ -581,8 +663,16 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.545,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 272.5,
+      "saldoUnidade": 0.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 0.0,
+          "kg": 0.0,
+          "reservadoM": 500.0
+        }
+      ]
     },
     {
       "codigo": "7019212",
@@ -999,7 +1089,7 @@
       "unidade": "mt",
       "peso": 0.0623,
       "saldoKg": 80.99,
-      "saldoUnidade": 1000.0,
+      "saldoUnidade": 1300.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
@@ -1009,9 +1099,9 @@
         },
         {
           "rotulo": "Bobina B",
-          "metros": 0.0,
-          "kg": 0.0,
-          "reservadoM": 300.0
+          "metros": 300.0,
+          "kg": 18.69,
+          "reservadoM": 0.0
         }
       ]
     },
@@ -1321,13 +1411,13 @@
       "unidade": "mt",
       "peso": 0.13293,
       "saldoKg": 98.42,
-      "saldoUnidade": 400.0,
+      "saldoUnidade": 700.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 400.0,
-          "kg": 53.17,
-          "reservadoM": 300.0
+          "metros": 700.0,
+          "kg": 93.05,
+          "reservadoM": 0.0
         }
       ]
     },
