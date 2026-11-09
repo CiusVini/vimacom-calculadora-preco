@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T17:29:34-03:00",
+  "atualizadoEm": "2026-11-09T16:54:22-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -171,7 +171,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.142,
-      "saldoKg": 944.93,
+      "saldoKg": 916.13,
       "saldoUnidade": 6362.0,
       "bobinas": [
         {
@@ -184,7 +184,7 @@
           "rotulo": "Bobina B",
           "metros": 6283.0,
           "kg": 892.19,
-          "reservadoM": 200.0
+          "reservadoM": 0.0
         }
       ]
     },
@@ -265,14 +265,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.21,
-      "saldoKg": 177.7,
+      "saldoKg": 145.97,
       "saldoUnidade": 690.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
           "metros": 690.0,
           "kg": 144.9,
-          "reservadoM": 150.0
+          "reservadoM": 0.0
         }
       ]
     },
@@ -350,14 +350,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.31,
-      "saldoKg": 371.07,
-      "saldoUnidade": 895.0,
+      "saldoKg": 376.96,
+      "saldoUnidade": 1214.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 895.0,
-          "kg": 277.45,
-          "reservadoM": 300.0
+          "metros": 1214.0,
+          "kg": 376.34,
+          "reservadoM": 0.0
         }
       ]
     },
@@ -430,13 +430,13 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.325,
-      "saldoKg": 148.64,
-      "saldoUnidade": 462.0,
+      "saldoKg": 19.95,
+      "saldoUnidade": 62.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 462.0,
-          "kg": 150.15,
+          "metros": 62.0,
+          "kg": 20.15,
           "reservadoM": 0.0
         }
       ]
@@ -456,16 +456,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.383,
-      "saldoKg": 192.0,
-      "saldoUnidade": 500.0,
-      "bobinas": [
-        {
-          "rotulo": "Bobina A",
-          "metros": 500.0,
-          "kg": 191.5,
-          "reservadoM": 0.0
-        }
-      ]
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "5019178",
@@ -473,14 +465,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 328.0,
-      "saldoUnidade": 650.0,
+      "saldoKg": 439.52,
+      "saldoUnidade": 1072.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 650.0,
-          "kg": 266.5,
-          "reservadoM": 150.0
+          "metros": 1072.0,
+          "kg": 439.52,
+          "reservadoM": 0.0
         }
       ]
     },
@@ -587,14 +579,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.444,
-      "saldoKg": 146.96,
-      "saldoUnidade": 19.0,
+      "saldoKg": 53.28,
+      "saldoUnidade": 0.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 19.0,
-          "kg": 8.44,
-          "reservadoM": 312.0
+          "metros": 0.0,
+          "kg": 0.0,
+          "reservadoM": 120.0
         }
       ]
     },
@@ -968,8 +960,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.88093,
-      "saldoKg": 167.94,
-      "saldoUnidade": 90.0
+      "saldoKg": 149.28,
+      "saldoUnidade": 80.0
     },
     {
       "codigo": "34143",
