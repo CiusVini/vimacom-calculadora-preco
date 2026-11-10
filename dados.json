@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T16:54:22-03:00",
+  "atualizadoEm": "2026-11-10T17:20:46-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -132,13 +132,13 @@
       "unidade": "mt",
       "peso": 0.11794,
       "saldoKg": 95.65,
-      "saldoUnidade": 810.0,
+      "saldoUnidade": 510.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 810.0,
-          "kg": 95.53,
-          "reservadoM": 0.0
+          "metros": 510.0,
+          "kg": 60.15,
+          "reservadoM": 300.0
         }
       ]
     },
@@ -149,7 +149,7 @@
       "unidade": "mt",
       "peso": 0.12884,
       "saldoKg": 90.18,
-      "saldoUnidade": 700.0,
+      "saldoUnidade": 300.0,
       "bobinas": [
         {
           "rotulo": "Bobina C",
@@ -159,9 +159,9 @@
         },
         {
           "rotulo": "Bobina D",
-          "metros": 600.0,
-          "kg": 77.3,
-          "reservadoM": 0.0
+          "metros": 200.0,
+          "kg": 25.77,
+          "reservadoM": 400.0
         }
       ]
     },
@@ -319,7 +319,7 @@
       "unidade": "mt",
       "peso": 0.263,
       "saldoKg": 173.58,
-      "saldoUnidade": 660.0,
+      "saldoUnidade": 460.0,
       "bobinas": [
         {
           "rotulo": "Bobina B",
@@ -329,9 +329,9 @@
         },
         {
           "rotulo": "Bobina C",
-          "metros": 540.0,
-          "kg": 142.02,
-          "reservadoM": 0.0
+          "metros": 340.0,
+          "kg": 89.42,
+          "reservadoM": 200.0
         }
       ]
     },
@@ -350,13 +350,13 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.31,
-      "saldoKg": 376.96,
-      "saldoUnidade": 1214.0,
+      "saldoKg": 66.96,
+      "saldoUnidade": 214.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
-          "metros": 1214.0,
-          "kg": 376.34,
+          "metros": 214.0,
+          "kg": 66.34,
           "reservadoM": 0.0
         }
       ]
@@ -465,16 +465,8 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.41,
-      "saldoKg": 439.52,
-      "saldoUnidade": 1072.0,
-      "bobinas": [
-        {
-          "rotulo": "Bobina A",
-          "metros": 1072.0,
-          "kg": 439.52,
-          "reservadoM": 0.0
-        }
-      ]
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "501129",
