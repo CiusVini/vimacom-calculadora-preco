@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T09:03:56-03:00",
+  "atualizadoEm": "2026-11-16T17:08:23-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -131,14 +131,14 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.11794,
-      "saldoKg": 60.27,
+      "saldoKg": 24.89,
       "saldoUnidade": 210.0,
       "bobinas": [
         {
           "rotulo": "Bobina A",
           "metros": 210.0,
           "kg": 24.77,
-          "reservadoM": 300.0
+          "reservadoM": 0.0
         }
       ]
     },
@@ -312,7 +312,7 @@
       "familia": "cobre",
       "unidade": "mt",
       "peso": 0.263,
-      "saldoKg": 47.34,
+      "saldoKg": 43.4,
       "saldoUnidade": 165.0,
       "bobinas": [
         {
@@ -325,7 +325,7 @@
           "rotulo": "Bobina C",
           "metros": 145.0,
           "kg": 38.14,
-          "reservadoM": 15.0
+          "reservadoM": 0.0
         }
       ]
     },
@@ -922,7 +922,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.88093,
-      "saldoKg": 111.96,
+      "saldoKg": 93.3,
       "saldoUnidade": 50.0
     },
     {
@@ -949,8 +949,8 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.08,
-      "saldoKg": 10.88,
-      "saldoUnidade": 10.0
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "78183",
@@ -1341,16 +1341,8 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.1011,
-      "saldoKg": 2022.0,
-      "saldoUnidade": 0.0,
-      "bobinas": [
-        {
-          "rotulo": "Bobina A",
-          "metros": 0.0,
-          "kg": 0.0,
-          "reservadoM": 20000.0
-        }
-      ]
+      "saldoKg": 0.0,
+      "saldoUnidade": 0.0
     },
     {
       "codigo": "31851",
