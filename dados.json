@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T09:47:56-03:00",
+  "atualizadoEm": "2026-11-18T16:33:48-03:00",
   "produtos": [
     {
       "codigo": "67102",
@@ -904,7 +904,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 0.97,
-      "saldoKg": 2850.0,
+      "saldoKg": 70.3,
       "saldoUnidade": 74.0
     },
     {
@@ -949,7 +949,7 @@
       "familia": "barra",
       "unidade": "pc",
       "peso": 1.08,
-      "saldoKg": 217.6,
+      "saldoKg": 0.0,
       "saldoUnidade": 0.0
     },
     {
@@ -1341,8 +1341,16 @@
       "familia": "aluminio",
       "unidade": "mt",
       "peso": 0.1011,
-      "saldoKg": 0.0,
-      "saldoUnidade": 0.0
+      "saldoKg": 1011.0,
+      "saldoUnidade": 10000.0,
+      "bobinas": [
+        {
+          "rotulo": "Bobina A",
+          "metros": 10000.0,
+          "kg": 1011.0,
+          "reservadoM": 0.0
+        }
+      ]
     },
     {
       "codigo": "31851",
